@@ -14,7 +14,7 @@ import os
 import re
 
 # 🔐 Bot token and channel ID
-BOT_TOKEN = "8418260071:AAGmleVH2QwYrWQFotARRDW1b4XWPiJzj20"
+BOT_TOKEN = "8280607987:AAEqJmkGtHwq0JNiNu24q4fMzOuRw8q7E-I"
 CHANNEL_ID = -1002812881439  # AJxfiles
 
 # 🛡️ Admin user IDs
